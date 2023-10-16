@@ -18,7 +18,7 @@ class Persona(object):
         self._edad = edad
 
     def getAltura(self):
-        return self._edad
+        return self._altura
     
     def setAltura(self, altura):
         self._altura = altura
