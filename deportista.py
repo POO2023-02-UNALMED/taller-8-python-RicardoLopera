@@ -9,9 +9,9 @@ class Deportista(object):
     def setDeporte(self, deporte):
         self._deporte = deporte
 
-    def getAnosPracticando(self):
+    def getAñosPracticando(self):
         return self._anosPracticando
     
-    def setAnorPracticando(self, anosPracticando):
+    def setAñosPracticando(self, anosPracticando):
         self._anosPracticando = anosPracticando
 
